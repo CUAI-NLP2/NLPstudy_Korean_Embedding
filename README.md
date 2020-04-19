@@ -1,0 +1,1 @@
+# NLPstudy_Korean_Embedding
